@@ -10,3 +10,18 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+*.idea
+*.iml
+surefire-reports
+appium-reports
+target
+debug.log.DS_Store
+src/.DS_Store
+src/test/.DS_Store
+src/test/resources/.DS_Store
+.DS_Store
+*.allure
+null/
+/.idea/
+allure-results/
